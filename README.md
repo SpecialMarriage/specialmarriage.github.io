@@ -1,2 +1,2 @@
 # Special Marriage Bangladesh
-https://specialmarriagebd.ml
+https://specialmarriagebangladesh.ml
