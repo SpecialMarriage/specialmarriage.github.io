@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://specialmarriagebd.ml/sitemap.xml
+Sitemap: https://specialmarriagebangladesh.ml/sitemap.xml
